@@ -20,4 +20,5 @@ pnpm add -g @angular/cli
 
 ```bash
 ng new first-angular-app --no-zoneless
+corepack use pnpm@latest
 ```
